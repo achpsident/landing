@@ -1,0 +1,25 @@
+.card {
+height:300px;
+width:200px;
+background-color: rgba(183, 127, 14, 1.0);
+text-align: center;
+position: relative;
+}
+
+.card img {
+height: 100px;
+width: 100px;
+}
+
+.top-bun {
+  height: 100px;
+  border-radius: 50px 50px 0 0;
+  border: 1px solid black;
+  margin-bottom: 10px;
+}
+
+.bottom-bun {
+  height: 100px;
+  border-radius: 0 0 50px 50px;
+  border: 1px solid black;
+}

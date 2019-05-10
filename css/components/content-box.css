@@ -1,0 +1,13 @@
+.content-box {
+height:400px;
+}
+
+.card-holder {
+ margin: 0 auto;
+ height:300px;
+ width: 900px;
+ margin-bottom: 100px;
+ display:flex;
+ justify-content: space-evenly;
+ align-items: center;
+}
